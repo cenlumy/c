@@ -7,9 +7,7 @@
 		printf("you enter %d\n",n);
 #define MA int main(){
 #define END return 0;}
+#define W "hello how are you"
+			
 
-
-MA
-	P H
-	I
-END
+MA P W W W H I END
